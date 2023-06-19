@@ -6,7 +6,16 @@
     <description>Recent content in PROJECTS on RAFAL MAJCHERCZYK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Rafal-Majcherczyk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Rafal-Majcherczyk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIFA World Cup 2022 Predictive Model</title>
+      <link>https://Rafal-Majcherczyk.github.io/post/project-2/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rafal-Majcherczyk.github.io/post/project-2/</guid>
+      <description>Inspired by EA&amp;rsquo;s simulation performed inside FIFA game that accurately predicted the winner of the World Cup 2022, I utilized Python to built a predictive model that uses the Poisson distribution to forecast the results of each match in the tournament and determine the medalists.</description>
+    </item>
+    
     <item>
       <title>FIFA World Cup 2022 Fan Dashboard</title>
       <link>https://Rafal-Majcherczyk.github.io/post/project-1/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://Rafal-Majcherczyk.github.io/post/project-1/</guid>
       <description>In the second half of November 2022, I started looking for an interesting data project idea. I did some research and brainstorming and compiled a list of potential topics that I could dive into when, all of a sudden, the FIFA World Cup 2022 started. Watching first matches and observing football fans from all over the world reveling in the World Cup fever I slowly started getting hooked as well. In order to celebrate this event I decided to put in practice my SQL, Python, and Tableau skills and design a dashboard in Tableau Public which would tell a story of our favourite teams.</description>
-    </item>
-    
-    <item>
-      <title>FIFA World Cup 2022 Predictive Model (article under construction)</title>
-      <link>https://Rafal-Majcherczyk.github.io/post/project-2/</link>
-      <pubDate>Thu, 02 Mar 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://Rafal-Majcherczyk.github.io/post/project-2/</guid>
-      <description>Article is currently under construction. However, the model which is the main topic of this post is already available on my Github account.</description>
     </item>
     
   </channel>
