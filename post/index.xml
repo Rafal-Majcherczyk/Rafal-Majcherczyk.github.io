@@ -25,5 +25,14 @@
       <description>In the second half of November 2022, I started looking for an interesting data project idea. I did some research and brainstorming and compiled a list of potential topics that I could dive into when, all of a sudden, the FIFA World Cup 2022 started. Watching first matches and observing football fans from all over the world reveling in the World Cup fever I slowly started getting hooked as well. In order to celebrate this event I decided to put in practice my SQL, Python, and Tableau skills and design a dashboard in Tableau Public which would tell a story of our favourite teams.</description>
     </item>
     
+    <item>
+      <title>COVID 19 Vaccines and their side effects in Poland (upcoming project)</title>
+      <link>https://Rafal-Majcherczyk.github.io/post/project-3/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rafal-Majcherczyk.github.io/post/project-3/</guid>
+      <description>Project will be concentrated on analysis of roughly two years worth of data gathered in Poland about reported side effects of COVID 19 vaccines. The idea is to revisit the problem without any prejugment and make an attempt to better understand the risks related to that medical procedure, assess the true severity of potential side effects, and put numbers in perspective relying solely on data. Project involves preparation of dashboard that will present the findings.</description>
+    </item>
+    
   </channel>
 </rss>
